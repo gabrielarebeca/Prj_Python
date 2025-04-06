@@ -8,16 +8,6 @@ Este projeto realiza uma análise exploratória dos dados do Sistema de Seleçã
 - `lista_de_espera_sisu_2022_2.csv`: Conjunto de dados utilizado na análise.
 - `campus_por_estado.png` e `cursos.png`: Visualizações geradas a partir da análise.
 
-## 📊 Visualizações
-
-![Campus por Estado](campus_por_estado.png)
-
-*Figura 1: Distribuição dos campi por estado.*
-
-![Cursos](cursos.png)
-
-*Figura 2: Distribuição dos cursos.*
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Python
